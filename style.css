@@ -677,9 +677,11 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 14px;
 }
-
+.citation {
+    font-size: 18px;
+}
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
@@ -771,15 +773,18 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #C7520C;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FCD5BC!important;
+}
+.tc-white2 {
+    color: #FCD5BC;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #C7520C;
     color: #FFFFFF!important;
 }
 
@@ -822,7 +827,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
