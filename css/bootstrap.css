@@ -2307,6 +2307,10 @@ pre code {
     .col-sm-12 {
         width: 100%
     }
+    .col-sm-12a {
+        background-color: rgba(0, 0, 0, 0.5);
+        width: 100%
+    }
     .col-sm-11 {
         width: 91.66666667%
     }
