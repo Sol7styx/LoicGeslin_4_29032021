@@ -459,7 +459,9 @@ nav .caret {
     color: #FFF;
     background: rgba(0, 0, 0, .3);
 }
-
+.detour {
+    padding-bottom: 40px;
+}
 button {
     outline: none!important;
 }
@@ -757,7 +759,6 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
@@ -922,6 +923,9 @@ h4 {
         padding-top: 0;
         border-top: 1px solid rgba(0, 0, 0, .2);
         float: none!important;
+    }
+    .specy1 {
+        padding: 0;
     }
     .navbar.row {
         margin-left: 0;
